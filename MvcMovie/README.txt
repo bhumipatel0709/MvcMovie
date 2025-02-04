@@ -120,3 +120,21 @@ Restored C:\Users\patel\source\repos\MvcMovie\MvcMovie\MvcMovie.csproj (in 1.09 
 -20250129145344_Rating migration runs as expected.
 0953
 -Run the code to check and it is working successfully.
+
+2025-02-04
+1140
+-modied the movie model
+1145
+-Run the Modified code and it worked successfully.
+1150
+-modified the Movie model
+1205
+-Run the modified code and it worked successfully.
+1222
+- changed in delete Method post type in the movie controller 
+1223
+-Run the modified code to check and it worked successfully.
+
+
+
+
