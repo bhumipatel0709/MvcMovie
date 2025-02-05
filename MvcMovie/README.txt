@@ -49,8 +49,7 @@ W0873156
 - Check the code and runs the application (works successfully)
 
 
-20251290823
-0825
+
 
 Clean started at 8:25 AM...
 1>------ Clean started: Project: MvcMovie, Configuration: Debug Any CPU ------
@@ -134,6 +133,14 @@ Restored C:\Users\patel\source\repos\MvcMovie\MvcMovie\MvcMovie.csproj (in 1.09 
 - changed in delete Method post type in the movie controller 
 1223
 -Run the modified code to check and it worked successfully.
+
+2025-02-05
+1015
+-New movies were added to seedata
+1019
+-Run the code to chcek and seems that its working suceessfully
+ 
+
 
 
 
